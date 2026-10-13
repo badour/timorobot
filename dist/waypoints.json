@@ -1,0 +1,114 @@
+[
+  {
+    "mapPoint": "college-engineering",
+    "kind": "college",
+    "ar": "كلية الهندسة",
+    "en": "College of Engineering",
+    "whereAr": "مجمع الكليات، المبنى الشمالي",
+    "whereEn": "Colleges complex, north building"
+  },
+  {
+    "mapPoint": "college-science",
+    "kind": "college",
+    "ar": "كلية العلوم",
+    "en": "College of Science",
+    "whereAr": "مجمع الكليات، المبنى الشرقي",
+    "whereEn": "Colleges complex, east building"
+  },
+  {
+    "mapPoint": "college-business",
+    "kind": "college",
+    "ar": "كلية إدارة الأعمال",
+    "en": "College of Business",
+    "whereAr": "مبنى الإدارة، الدور الثاني",
+    "whereEn": "Administration building, second floor"
+  },
+  {
+    "mapPoint": "college-arts",
+    "kind": "college",
+    "ar": "كلية الآداب والعلوم الإنسانية",
+    "en": "College of Arts and Humanities",
+    "whereAr": "مجمع الكليات، المبنى الغربي",
+    "whereEn": "Colleges complex, west building"
+  },
+  {
+    "mapPoint": "college-medicine",
+    "kind": "college",
+    "ar": "كلية الطب",
+    "en": "College of Medicine",
+    "whereAr": "المجمع الصحي، بجوار العيادة الجامعية",
+    "whereEn": "Health complex, beside the campus clinic"
+  },
+  {
+    "mapPoint": "main-gate",
+    "kind": "facility",
+    "ar": "البوابة الرئيسية",
+    "en": "Main gate",
+    "whereAr": "مدخل الحرم ونقطة تجمع الزوار",
+    "whereEn": "Campus entrance and the visitor meeting point"
+  },
+  {
+    "mapPoint": "facility-admissions",
+    "kind": "facility",
+    "ar": "عمادة القبول والتسجيل",
+    "en": "Admissions office",
+    "whereAr": "مبنى الإدارة، الدور الأول",
+    "whereEn": "Administration building, first floor"
+  },
+  {
+    "mapPoint": "facility-library",
+    "kind": "facility",
+    "ar": "المكتبة المركزية",
+    "en": "Central library",
+    "whereAr": "المبنى الأوسط بجوار الساحة الرئيسية",
+    "whereEn": "Middle building, beside the main square"
+  },
+  {
+    "mapPoint": "facility-student-affairs",
+    "kind": "facility",
+    "ar": "عمادة شؤون الطلاب",
+    "en": "Student affairs",
+    "whereAr": "مبنى الإدارة، الدور الأرضي",
+    "whereEn": "Administration building, ground floor"
+  },
+  {
+    "mapPoint": "facility-clinic",
+    "kind": "facility",
+    "ar": "العيادة الجامعية",
+    "en": "Campus clinic",
+    "whereAr": "المجمع الصحي عند البوابة الشرقية",
+    "whereEn": "Health complex by the east gate"
+  },
+  {
+    "mapPoint": "facility-mosque",
+    "kind": "facility",
+    "ar": "المسجد",
+    "en": "Mosque",
+    "whereAr": "وسط الحرم",
+    "whereEn": "Center of the campus"
+  },
+  {
+    "mapPoint": "facility-cafeteria",
+    "kind": "facility",
+    "ar": "الكافتيريا",
+    "en": "Cafeteria",
+    "whereAr": "الساحة الرئيسية",
+    "whereEn": "Main square"
+  },
+  {
+    "mapPoint": "facility-hall",
+    "kind": "facility",
+    "ar": "قاعة المؤتمرات",
+    "en": "Conference hall",
+    "whereAr": "مركز الجامعة",
+    "whereEn": "University center"
+  },
+  {
+    "mapPoint": "facility-parking",
+    "kind": "facility",
+    "ar": "مواقف الزوار",
+    "en": "Visitor parking",
+    "whereAr": "أمام البوابة الرئيسية",
+    "whereEn": "In front of the main gate"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "timo-university-reception",
+  "private": true,
+  "type": "module",
+  "description": "برنامج استقبال جامعي لروبوت تيمو: تعريف، لغتان، كليات ومرافق، هوية بصرية، ورسائل ترحيب.",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test src/dialogue.test.mjs",
+    "export": "node scripts/export-content.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
