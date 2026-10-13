@@ -1,0 +1,431 @@
+{
+  "sample": true,
+  "staffPin": "2468",
+  "identity": {
+    "name": { "ar": "جامعة المعرفة", "en": "Knowledge University" },
+    "tagline": {
+      "ar": "تعريف بالجامعة، وكلياتها، ومرافقها",
+      "en": "An introduction to the university, its colleges, and its facilities"
+    },
+    "robotName": { "ar": "تيمو", "en": "Timo" },
+    "logoUrl": ""
+  },
+  "theme": {
+    "primary": "#14352C",
+    "accent": "#A6843D",
+    "surface": "#F3EEE4",
+    "ink": "#1C1914",
+    "card": "#FFFCF7"
+  },
+  "behavior": {
+    "idleSeconds": 90,
+    "showSimulator": true
+  },
+  "contact": {
+    "phone": "",
+    "email": ""
+  },
+  "hours": {
+    "body": {
+      "ar": "أوقات الاستقبال النموذجية من الأحد إلى الخميس، من الثامنة صباحاً حتى الرابعة مساءً. غيّروا هذا النص حسب تقويم جامعتكم.",
+      "en": "Sample reception hours are Sunday to Thursday, 8:00 to 16:00. Replace this text with your university calendar."
+    },
+    "keywords": {
+      "ar": ["ساعات العمل", "وقت الدوام", "متى تفتح", "أوقات الدوام", "متى تفتح الجامعة"],
+      "en": ["opening hours", "working hours", "when do you open", "office hours"]
+    }
+  },
+  "about": {
+    "title": { "ar": "عن الجامعة", "en": "About the university" },
+    "body": {
+      "ar": "جامعة المعرفة تستقبل الطلبة والزوار وتعرفهم برؤيتها وخدماتها وكلياتها ومرافقها. أنا تيمو، روبوت الاستقبال، أشرح لكم ذلك بالعربية والإنجليزية وأرافقكم إلى الجهة التي تريدونها داخل الحرم.",
+      "en": "Knowledge University welcomes students and visitors and introduces its vision, services, colleges, and facilities. I am Timo, the reception robot. I can explain this in Arabic and English and walk you to the place you need on campus."
+    },
+    "keywords": {
+      "ar": ["عن الجامعة", "عرفني بالجامعة", "نبذة عن الجامعة", "من أنت", "وش الجامعة", "ايش الجامعة", "عرفني عن الجامعة"],
+      "en": ["about the university", "tell me about the university", "who are you", "introduction", "about you"]
+    }
+  },
+  "vision": {
+    "title": { "ar": "الرؤية", "en": "Vision" },
+    "body": {
+      "ar": "أن تكون الجامعة بيئة رائدة في التعليم والبحث وخدمة المجتمع، ويستشعر الطالب والزائر وضوح الرسالة وسهولة الوصول إلى الخدمات.",
+      "en": "To be a leading environment for learning, research, and community service, where students and visitors find a clear mission and easy access to services."
+    },
+    "keywords": {
+      "ar": ["الرؤية", "رؤية الجامعة", "رؤيتكم", "ما رؤية الجامعة"],
+      "en": ["vision", "your vision", "university vision", "what is the vision"]
+    }
+  },
+  "mission": {
+    "title": { "ar": "الرسالة", "en": "Mission" },
+    "body": {
+      "ar": "تقديم تعليم متميز، ودعم الطالب في مساره الأكاديمي، وفتح الحرم للزوار بتعريف واضح وخدمة استقبال كريمة.",
+      "en": "To offer strong education, support each student through their studies, and welcome visitors with a clear introduction and attentive reception."
+    },
+    "keywords": {
+      "ar": ["الرسالة", "رسالة الجامعة", "رسالتكم", "رسالتها", "أهداف الجامعة"],
+      "en": ["mission", "your mission", "university mission", "what is the mission"]
+    }
+  },
+  "services": [
+    {
+      "id": "admission",
+      "title": { "ar": "القبول والتسجيل", "en": "Admissions and registration" },
+      "body": {
+        "ar": "استفسارات القبول، ومواعيد التسجيل، والوثائق المطلوبة لطلبة الجامعة والمستجدين.",
+        "en": "Admission questions, registration dates, and the documents required from current and new students."
+      }
+    },
+    {
+      "id": "advising",
+      "title": { "ar": "الإرشاد الأكاديمي", "en": "Academic advising" },
+      "body": {
+        "ar": "مساعدة الطلبة على فهم الخطة الدراسية واختيار المقررات والجهة المناسبة داخل كليتهم.",
+        "en": "Help for students with study plans, course choices, and the right office inside their college."
+      }
+    },
+    {
+      "id": "library-service",
+      "title": { "ar": "خدمات المكتبة", "en": "Library services" },
+      "body": {
+        "ar": "الاستعارة، والاطلاع، والبحث في المصادر داخل المكتبة المركزية.",
+        "en": "Borrowing, reading, and searching the collections of the central library."
+      }
+    },
+    {
+      "id": "student-life",
+      "title": { "ar": "شؤون الطلاب والأنشطة", "en": "Student affairs and activities" },
+      "body": {
+        "ar": "البطاقة الجامعية، والأنشطة، والمعاملات الطلابية اليومية.",
+        "en": "Student cards, campus activities, and day-to-day student services."
+      }
+    },
+    {
+      "id": "portal",
+      "title": { "ar": "الخدمات الإلكترونية", "en": "Online services" },
+      "body": {
+        "ar": "البوابة الإلكترونية للجداول والنتائج والمعاملات التي تُنجز عن بعد.",
+        "en": "The online portal for timetables, results, and services completed remotely."
+      }
+    },
+    {
+      "id": "visits",
+      "title": { "ar": "استقبال الزوار", "en": "Visitor reception" },
+      "body": {
+        "ar": "استقبال الزائر، وشرح طريقته داخل الحرم، ومرافقته إلى الجهة التي يقصدها.",
+        "en": "Welcoming visitors, explaining the campus, and escorting them to their destination."
+      }
+    }
+  ],
+  "colleges": [
+    {
+      "id": "engineering",
+      "mapPoint": "college-engineering",
+      "title": { "ar": "كلية الهندسة", "en": "College of Engineering" },
+      "where": { "ar": "مجمع الكليات، المبنى الشمالي", "en": "Colleges complex, north building" },
+      "summary": {
+        "ar": "تضم الكلية تخصصات الهندسة التطبيقية وتدرّب الطلبة على المشاريع المعملية.",
+        "en": "The college teaches applied engineering and trains students through lab projects."
+      },
+      "departments": [
+        {
+          "id": "civil",
+          "title": { "ar": "الهندسة المدنية", "en": "Civil Engineering" },
+          "summary": { "ar": "إنشاءات، وطرق، وإدارة مشاريع.", "en": "Structures, roads, and project management." }
+        },
+        {
+          "id": "electrical",
+          "title": { "ar": "الهندسة الكهربائية", "en": "Electrical Engineering" },
+          "summary": { "ar": "قوى، وإلكترونيات، وأنظمة تحكم.", "en": "Power, electronics, and control systems." },
+          "aliases": { "ar": ["الكهرباء"], "en": ["electrical"] }
+        },
+        {
+          "id": "mechanical",
+          "title": { "ar": "الهندسة الميكانيكية", "en": "Mechanical Engineering" },
+          "summary": { "ar": "حراريات، وتصميم ميكانيكي، وتصنيع.", "en": "Thermal systems, mechanical design, and manufacturing." }
+        },
+        {
+          "id": "computer",
+          "title": { "ar": "هندسة الحاسب", "en": "Computer Engineering" },
+          "summary": { "ar": "أنظمة حاسب، وشبكات، وأنظمة مدمجة.", "en": "Computer systems, networks, and embedded systems." },
+          "aliases": { "ar": ["الحاسب", "الكمبيوتر"], "en": ["computer"] }
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "mapPoint": "college-science",
+      "title": { "ar": "كلية العلوم", "en": "College of Science" },
+      "where": { "ar": "مجمع الكليات، المبنى الشرقي", "en": "Colleges complex, east building" },
+      "summary": {
+        "ar": "تقدم الكلية العلوم الأساسية التي تساند التخصصات الصحية والهندسية.",
+        "en": "The college teaches the core sciences that support health and engineering programs."
+      },
+      "departments": [
+        {
+          "id": "math",
+          "title": { "ar": "الرياضيات", "en": "Mathematics" },
+          "summary": { "ar": "رياضيات بحثة وتطبيقية.", "en": "Pure and applied mathematics." }
+        },
+        {
+          "id": "physics",
+          "title": { "ar": "الفيزياء", "en": "Physics" },
+          "summary": { "ar": "فيزياء عامة وتطبيقية.", "en": "General and applied physics." }
+        },
+        {
+          "id": "chemistry",
+          "title": { "ar": "الكيمياء", "en": "Chemistry" },
+          "summary": { "ar": "كيمياء عضوية وغير عضوية.", "en": "Organic and inorganic chemistry." }
+        },
+        {
+          "id": "biology",
+          "title": { "ar": "الأحياء", "en": "Biology" },
+          "summary": { "ar": "علوم الحياة والأحياء الدقيقة.", "en": "Life sciences and microbiology." }
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "mapPoint": "college-business",
+      "title": { "ar": "كلية إدارة الأعمال", "en": "College of Business" },
+      "where": { "ar": "مبنى الإدارة، الدور الثاني", "en": "Administration building, second floor" },
+      "summary": {
+        "ar": "تعد الكلية الطلبة للعمل في المؤسسات وإدارة الأعمال.",
+        "en": "The college prepares students for organizations and business management."
+      },
+      "departments": [
+        {
+          "id": "accounting",
+          "title": { "ar": "المحاسبة", "en": "Accounting" },
+          "summary": { "ar": "محاسبة مالية وتدقيق.", "en": "Financial accounting and auditing." }
+        },
+        {
+          "id": "finance",
+          "title": { "ar": "المالية", "en": "Finance" },
+          "summary": { "ar": "تمويل واستثمار.", "en": "Finance and investment." }
+        },
+        {
+          "id": "marketing",
+          "title": { "ar": "التسويق", "en": "Marketing" },
+          "summary": { "ar": "تسويق واتصال مؤسسي.", "en": "Marketing and organizational communication." }
+        }
+      ]
+    },
+    {
+      "id": "arts",
+      "mapPoint": "college-arts",
+      "title": { "ar": "كلية الآداب والعلوم الإنسانية", "en": "College of Arts and Humanities" },
+      "where": { "ar": "مجمع الكليات، المبنى الغربي", "en": "Colleges complex, west building" },
+      "summary": {
+        "ar": "تعنى الكلية باللغة والإعلام والعلوم الإنسانية.",
+        "en": "The college covers languages, media, and the humanities."
+      },
+      "departments": [
+        {
+          "id": "arabic",
+          "title": { "ar": "اللغة العربية", "en": "Arabic Language" },
+          "summary": { "ar": "لغة عربية وأدب.", "en": "Arabic language and literature." }
+        },
+        {
+          "id": "english",
+          "title": { "ar": "اللغة الإنجليزية", "en": "English Language" },
+          "summary": { "ar": "لغة إنجليزية وترجمة.", "en": "English language and translation." },
+          "aliases": { "ar": ["قسم الانجليزي"], "en": ["english department"] }
+        },
+        {
+          "id": "media",
+          "title": { "ar": "الإعلام", "en": "Media" },
+          "summary": { "ar": "إعلام رقمي وصحافة.", "en": "Digital media and journalism." }
+        }
+      ]
+    },
+    {
+      "id": "medicine",
+      "mapPoint": "college-medicine",
+      "title": { "ar": "كلية الطب", "en": "College of Medicine" },
+      "where": { "ar": "المجمع الصحي، بجوار العيادة الجامعية", "en": "Health complex, beside the campus clinic" },
+      "summary": {
+        "ar": "تضم الكلية الطب والتمريض وتجاور العيادة الجامعية للتدريب.",
+        "en": "The college includes medicine and nursing and sits beside the campus clinic for training."
+      },
+      "departments": [
+        {
+          "id": "general-medicine",
+          "title": { "ar": "الطب البشري", "en": "Medicine" },
+          "summary": { "ar": "برنامج الطب البشري.", "en": "The medicine program." },
+          "aliases": { "ar": ["الطب"], "en": ["medicine", "medical"] }
+        },
+        {
+          "id": "nursing",
+          "title": { "ar": "التمريض", "en": "Nursing" },
+          "summary": { "ar": "علوم التمريض والرعاية.", "en": "Nursing and care." }
+        }
+      ]
+    }
+  ],
+  "facilities": [
+    {
+      "id": "main-gate",
+      "mapPoint": "main-gate",
+      "title": { "ar": "البوابة الرئيسية", "en": "Main gate" },
+      "where": { "ar": "مدخل الحرم ونقطة تجمع الزوار", "en": "Campus entrance and the visitor meeting point" },
+      "summary": {
+        "ar": "من هنا يبدأ الاستقبال، ومنها أصل معكم إلى الكليات والمرافق.",
+        "en": "Reception starts here, and from here I can walk with you to the colleges and facilities."
+      },
+      "keywords": {
+        "ar": ["وين الجامعة", "اين الجامعة", "فين الجامعة", "موقع الجامعة", "عنوان الجامعة", "البوابة الرئيسية"],
+        "en": ["where is the university", "university location", "main gate", "campus entrance"]
+      }
+    },
+    {
+      "id": "admissions",
+      "mapPoint": "facility-admissions",
+      "title": { "ar": "عمادة القبول والتسجيل", "en": "Admissions office" },
+      "where": { "ar": "مبنى الإدارة، الدور الأول", "en": "Administration building, first floor" },
+      "summary": {
+        "ar": "جهة القبول والتسجيل واستفسارات الطلبة المستجدين والزوار القادمين للتسجيل.",
+        "en": "Admissions, registration, and questions from new students and visiting applicants."
+      },
+      "keywords": {
+        "ar": ["عمادة القبول", "مكتب القبول", "التسجيل"],
+        "en": ["admissions office", "registrar", "registration office"]
+      }
+    },
+    {
+      "id": "library",
+      "mapPoint": "facility-library",
+      "title": { "ar": "المكتبة المركزية", "en": "Central library" },
+      "where": { "ar": "المبنى الأوسط بجوار الساحة الرئيسية", "en": "Middle building, beside the main square" },
+      "summary": {
+        "ar": "قاعات اطلاع واستعارة ومصادر بحث للطلبة والزوار المصرح لهم.",
+        "en": "Reading rooms, borrowing, and research collections for students and authorized visitors."
+      },
+      "keywords": {
+        "ar": ["المكتبة", "مكتبة"],
+        "en": ["library", "central library"]
+      }
+    },
+    {
+      "id": "student-affairs",
+      "mapPoint": "facility-student-affairs",
+      "title": { "ar": "عمادة شؤون الطلاب", "en": "Student affairs" },
+      "where": { "ar": "مبنى الإدارة، الدور الأرضي", "en": "Administration building, ground floor" },
+      "summary": {
+        "ar": "البطاقات الجامعية والمعاملات والأنشطة الطلابية.",
+        "en": "Student cards, student services, and campus activities."
+      },
+      "keywords": {
+        "ar": ["شؤون الطلاب", "شئون الطلاب"],
+        "en": ["student affairs", "student services"]
+      }
+    },
+    {
+      "id": "clinic",
+      "mapPoint": "facility-clinic",
+      "title": { "ar": "العيادة الجامعية", "en": "Campus clinic" },
+      "where": { "ar": "المجمع الصحي عند البوابة الشرقية", "en": "Health complex by the east gate" },
+      "summary": {
+        "ar": "إسعاف أولي وعيادة للطلبة والمنسوبين أثناء الدوام.",
+        "en": "First aid and a clinic for students and staff during working hours."
+      },
+      "keywords": {
+        "ar": ["العيادة", "الإسعاف", "الصحة"],
+        "en": ["clinic", "health center", "first aid"]
+      }
+    },
+    {
+      "id": "mosque",
+      "mapPoint": "facility-mosque",
+      "title": { "ar": "المسجد", "en": "Mosque" },
+      "where": { "ar": "وسط الحرم", "en": "Center of the campus" },
+      "summary": {
+        "ar": "مصلى الجامعة في وسط الحرم.",
+        "en": "The campus mosque at the center of the grounds."
+      },
+      "keywords": {
+        "ar": ["المسجد", "المصلى", "الصلاة"],
+        "en": ["mosque", "prayer room", "prayer"]
+      }
+    },
+    {
+      "id": "cafeteria",
+      "mapPoint": "facility-cafeteria",
+      "title": { "ar": "الكافتيريا", "en": "Cafeteria" },
+      "where": { "ar": "الساحة الرئيسية", "en": "Main square" },
+      "summary": {
+        "ar": "وجبات ومشروبات للطلبة والزوار.",
+        "en": "Meals and drinks for students and visitors."
+      },
+      "keywords": {
+        "ar": ["الكافتيريا", "المطعم", "الأكل"],
+        "en": ["cafeteria", "cafeteria", "food", "restaurant"]
+      }
+    },
+    {
+      "id": "hall",
+      "mapPoint": "facility-hall",
+      "title": { "ar": "قاعة المؤتمرات", "en": "Conference hall" },
+      "where": { "ar": "مركز الجامعة", "en": "University center" },
+      "summary": {
+        "ar": "قاعة للفعاليات والمؤتمرات والزيارات الرسمية.",
+        "en": "A hall for events, conferences, and official visits."
+      },
+      "keywords": {
+        "ar": ["قاعة المؤتمرات", "القاعة الكبرى"],
+        "en": ["conference hall", "auditorium"]
+      }
+    },
+    {
+      "id": "parking",
+      "mapPoint": "facility-parking",
+      "title": { "ar": "مواقف الزوار", "en": "Visitor parking" },
+      "where": { "ar": "أمام البوابة الرئيسية", "en": "In front of the main gate" },
+      "summary": {
+        "ar": "مواقف مخصصة لزوار الجامعة أمام البوابة الرئيسية.",
+        "en": "Parking reserved for university visitors in front of the main gate."
+      },
+      "keywords": {
+        "ar": ["المواقف", "موقف السيارات", "الباركنج"],
+        "en": ["parking", "visitor parking", "car park"]
+      }
+    }
+  ],
+  "welcomes": {
+    "visitor": {
+      "ar": "أهلاً بكم في {name}. أنا {robot}، وأسعد بتعريفكم بالجامعة ورؤيتها وخدماتها، وبإرشادكم إلى الكليات والمرافق.",
+      "en": "Welcome to {name}. I am {robot}. I can introduce the university, its vision, and its services, and guide you to the colleges and facilities."
+    },
+    "student": {
+      "ar": "أهلاً بعودتك إلى {name}. أنا {robot}. أقدر أساعدك في كليتك أو الخدمة أو المرفق الذي تحتاجه.",
+      "en": "Welcome back to {name}. I am {robot}. I can help you with your college, a service, or the facility you need."
+    }
+  },
+  "farewells": {
+    "visitor": {
+      "ar": "سعدنا بزيارتكم لـ{name}. نتطلع إلى استقبالكم مرة أخرى.",
+      "en": "Thank you for visiting {name}. We look forward to welcoming you again."
+    },
+    "student": {
+      "ar": "بالتوفيق في يومك الدراسي. أنا {robot}، ومتى ما احتجتني أنا هنا.",
+      "en": "Have a good day on campus. I am {robot}, and I will be here when you need me."
+    }
+  },
+  "suggestions": {
+    "ar": [
+      { "label": "عن الجامعة", "query": "عرفني عن الجامعة" },
+      { "label": "الرؤية", "query": "ما رؤية الجامعة" },
+      { "label": "الخدمات", "query": "ما خدمات الجامعة" },
+      { "label": "الكليات", "query": "ما الكليات والأقسام" },
+      { "label": "المكتبة", "query": "وين المكتبة" }
+    ],
+    "en": [
+      { "label": "About", "query": "Tell me about the university" },
+      { "label": "Vision", "query": "What is the vision" },
+      { "label": "Services", "query": "What services do you offer" },
+      { "label": "Colleges", "query": "List the colleges" },
+      { "label": "Library", "query": "Where is the library" }
+    ]
+  }
+}

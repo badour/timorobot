@@ -1,0 +1,24 @@
+{
+  "identity": {
+    "name": {
+      "ar": "جامعة المعرفة",
+      "en": "Knowledge University"
+    },
+    "tagline": {
+      "ar": "تعريف بالجامعة، وكلياتها، ومرافقها",
+      "en": "An introduction to the university, its colleges, and its facilities"
+    },
+    "robotName": {
+      "ar": "تيمو",
+      "en": "Timo"
+    },
+    "logoUrl": ""
+  },
+  "theme": {
+    "primary": "#14352C",
+    "accent": "#A6843D",
+    "surface": "#F3EEE4",
+    "ink": "#1C1914",
+    "card": "#FFFCF7"
+  }
+}

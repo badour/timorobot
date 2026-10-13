@@ -1,0 +1,1339 @@
+[
+  {
+    "lang": "ar",
+    "question": "عن الجامعة",
+    "answer": "جامعة المعرفة تستقبل الطلبة والزوار وتعرفهم برؤيتها وخدماتها وكلياتها ومرافقها. أنا تيمو، روبوت الاستقبال، أشرح لكم ذلك بالعربية والإنجليزية وأرافقكم إلى الجهة التي تريدونها داخل الحرم.",
+    "intent": "about",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "عرفني بالجامعة",
+    "answer": "جامعة المعرفة تستقبل الطلبة والزوار وتعرفهم برؤيتها وخدماتها وكلياتها ومرافقها. أنا تيمو، روبوت الاستقبال، أشرح لكم ذلك بالعربية والإنجليزية وأرافقكم إلى الجهة التي تريدونها داخل الحرم.",
+    "intent": "about",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "نبذة عن الجامعة",
+    "answer": "جامعة المعرفة تستقبل الطلبة والزوار وتعرفهم برؤيتها وخدماتها وكلياتها ومرافقها. أنا تيمو، روبوت الاستقبال، أشرح لكم ذلك بالعربية والإنجليزية وأرافقكم إلى الجهة التي تريدونها داخل الحرم.",
+    "intent": "about",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "من أنت",
+    "answer": "جامعة المعرفة تستقبل الطلبة والزوار وتعرفهم برؤيتها وخدماتها وكلياتها ومرافقها. أنا تيمو، روبوت الاستقبال، أشرح لكم ذلك بالعربية والإنجليزية وأرافقكم إلى الجهة التي تريدونها داخل الحرم.",
+    "intent": "about",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "وش الجامعة",
+    "answer": "جامعة المعرفة تستقبل الطلبة والزوار وتعرفهم برؤيتها وخدماتها وكلياتها ومرافقها. أنا تيمو، روبوت الاستقبال، أشرح لكم ذلك بالعربية والإنجليزية وأرافقكم إلى الجهة التي تريدونها داخل الحرم.",
+    "intent": "about",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "ايش الجامعة",
+    "answer": "جامعة المعرفة تستقبل الطلبة والزوار وتعرفهم برؤيتها وخدماتها وكلياتها ومرافقها. أنا تيمو، روبوت الاستقبال، أشرح لكم ذلك بالعربية والإنجليزية وأرافقكم إلى الجهة التي تريدونها داخل الحرم.",
+    "intent": "about",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "عرفني عن الجامعة",
+    "answer": "جامعة المعرفة تستقبل الطلبة والزوار وتعرفهم برؤيتها وخدماتها وكلياتها ومرافقها. أنا تيمو، روبوت الاستقبال، أشرح لكم ذلك بالعربية والإنجليزية وأرافقكم إلى الجهة التي تريدونها داخل الحرم.",
+    "intent": "about",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "الرؤية",
+    "answer": "أن تكون الجامعة بيئة رائدة في التعليم والبحث وخدمة المجتمع، ويستشعر الطالب والزائر وضوح الرسالة وسهولة الوصول إلى الخدمات.",
+    "intent": "vision",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "رؤية الجامعة",
+    "answer": "أن تكون الجامعة بيئة رائدة في التعليم والبحث وخدمة المجتمع، ويستشعر الطالب والزائر وضوح الرسالة وسهولة الوصول إلى الخدمات.",
+    "intent": "vision",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "رؤيتكم",
+    "answer": "أن تكون الجامعة بيئة رائدة في التعليم والبحث وخدمة المجتمع، ويستشعر الطالب والزائر وضوح الرسالة وسهولة الوصول إلى الخدمات.",
+    "intent": "vision",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "ما رؤية الجامعة",
+    "answer": "أن تكون الجامعة بيئة رائدة في التعليم والبحث وخدمة المجتمع، ويستشعر الطالب والزائر وضوح الرسالة وسهولة الوصول إلى الخدمات.",
+    "intent": "vision",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "الرسالة",
+    "answer": "تقديم تعليم متميز، ودعم الطالب في مساره الأكاديمي، وفتح الحرم للزوار بتعريف واضح وخدمة استقبال كريمة.",
+    "intent": "mission",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "رسالة الجامعة",
+    "answer": "تقديم تعليم متميز، ودعم الطالب في مساره الأكاديمي، وفتح الحرم للزوار بتعريف واضح وخدمة استقبال كريمة.",
+    "intent": "mission",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "رسالتكم",
+    "answer": "تقديم تعليم متميز، ودعم الطالب في مساره الأكاديمي، وفتح الحرم للزوار بتعريف واضح وخدمة استقبال كريمة.",
+    "intent": "mission",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "رسالتها",
+    "answer": "تقديم تعليم متميز، ودعم الطالب في مساره الأكاديمي، وفتح الحرم للزوار بتعريف واضح وخدمة استقبال كريمة.",
+    "intent": "mission",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "أهداف الجامعة",
+    "answer": "تقديم تعليم متميز، ودعم الطالب في مساره الأكاديمي، وفتح الحرم للزوار بتعريف واضح وخدمة استقبال كريمة.",
+    "intent": "mission",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "خدمات الجامعة",
+    "answer": "هذه خدمات الجامعة: القبول والتسجيل، الإرشاد الأكاديمي، خدمات المكتبة، شؤون الطلاب والأنشطة، الخدمات الإلكترونية، استقبال الزوار.",
+    "intent": "services",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "الخدمات",
+    "answer": "هذه خدمات الجامعة: القبول والتسجيل، الإرشاد الأكاديمي، خدمات المكتبة، شؤون الطلاب والأنشطة، الخدمات الإلكترونية، استقبال الزوار.",
+    "intent": "services",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "ما خدمات الجامعة",
+    "answer": "هذه خدمات الجامعة: القبول والتسجيل، الإرشاد الأكاديمي، خدمات المكتبة، شؤون الطلاب والأنشطة، الخدمات الإلكترونية، استقبال الزوار.",
+    "intent": "services",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "القبول والتسجيل",
+    "answer": "القبول والتسجيل. استفسارات القبول، ومواعيد التسجيل، والوثائق المطلوبة لطلبة الجامعة والمستجدين.",
+    "intent": "service",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "الإرشاد الأكاديمي",
+    "answer": "الإرشاد الأكاديمي. مساعدة الطلبة على فهم الخطة الدراسية واختيار المقررات والجهة المناسبة داخل كليتهم.",
+    "intent": "service",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "خدمات المكتبة",
+    "answer": "خدمات المكتبة. الاستعارة، والاطلاع، والبحث في المصادر داخل المكتبة المركزية.",
+    "intent": "service",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "شؤون الطلاب والأنشطة",
+    "answer": "شؤون الطلاب والأنشطة. البطاقة الجامعية، والأنشطة، والمعاملات الطلابية اليومية.",
+    "intent": "service",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "الخدمات الإلكترونية",
+    "answer": "الخدمات الإلكترونية. البوابة الإلكترونية للجداول والنتائج والمعاملات التي تُنجز عن بعد.",
+    "intent": "service",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "استقبال الزوار",
+    "answer": "استقبال الزوار. استقبال الزائر، وشرح طريقته داخل الحرم، ومرافقته إلى الجهة التي يقصدها.",
+    "intent": "service",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "الكليات والأقسام",
+    "answer": "تضم الجامعة هذه الكليات: كلية الهندسة، كلية العلوم، كلية إدارة الأعمال، كلية الآداب والعلوم الإنسانية، كلية الطب.",
+    "intent": "colleges",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "الكليات",
+    "answer": "تضم الجامعة هذه الكليات: كلية الهندسة، كلية العلوم، كلية إدارة الأعمال، كلية الآداب والعلوم الإنسانية، كلية الطب.",
+    "intent": "colleges",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "الاقسام",
+    "answer": "تضم الجامعة هذه الكليات: كلية الهندسة، كلية العلوم، كلية إدارة الأعمال، كلية الآداب والعلوم الإنسانية، كلية الطب.",
+    "intent": "colleges",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "ما الكليات والاقسام",
+    "answer": "تضم الجامعة هذه الكليات: كلية الهندسة، كلية العلوم، كلية إدارة الأعمال، كلية الآداب والعلوم الإنسانية، كلية الطب.",
+    "intent": "colleges",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "كلية الهندسة",
+    "answer": "كلية الهندسة. تضم الكلية تخصصات الهندسة التطبيقية وتدرّب الطلبة على المشاريع المعملية. مجمع الكليات، المبنى الشمالي",
+    "intent": "college",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "ar",
+    "question": "الهندسة المدنية",
+    "answer": "الهندسة المدنية في كلية الهندسة. إنشاءات، وطرق، وإدارة مشاريع. مجمع الكليات، المبنى الشمالي",
+    "intent": "department",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "ar",
+    "question": "الهندسة الكهربائية",
+    "answer": "الهندسة الكهربائية في كلية الهندسة. قوى، وإلكترونيات، وأنظمة تحكم. مجمع الكليات، المبنى الشمالي",
+    "intent": "department",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "ar",
+    "question": "الكهرباء",
+    "answer": "الهندسة الكهربائية في كلية الهندسة. قوى، وإلكترونيات، وأنظمة تحكم. مجمع الكليات، المبنى الشمالي",
+    "intent": "department",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "ar",
+    "question": "الهندسة الميكانيكية",
+    "answer": "الهندسة الميكانيكية في كلية الهندسة. حراريات، وتصميم ميكانيكي، وتصنيع. مجمع الكليات، المبنى الشمالي",
+    "intent": "department",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "ar",
+    "question": "هندسة الحاسب",
+    "answer": "هندسة الحاسب في كلية الهندسة. أنظمة حاسب، وشبكات، وأنظمة مدمجة. مجمع الكليات، المبنى الشمالي",
+    "intent": "department",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "ar",
+    "question": "الحاسب",
+    "answer": "هندسة الحاسب في كلية الهندسة. أنظمة حاسب، وشبكات، وأنظمة مدمجة. مجمع الكليات، المبنى الشمالي",
+    "intent": "department",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "ar",
+    "question": "الكمبيوتر",
+    "answer": "هندسة الحاسب في كلية الهندسة. أنظمة حاسب، وشبكات، وأنظمة مدمجة. مجمع الكليات، المبنى الشمالي",
+    "intent": "department",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "ar",
+    "question": "كلية العلوم",
+    "answer": "كلية العلوم. تقدم الكلية العلوم الأساسية التي تساند التخصصات الصحية والهندسية. مجمع الكليات، المبنى الشرقي",
+    "intent": "college",
+    "mapPoint": "college-science"
+  },
+  {
+    "lang": "ar",
+    "question": "الرياضيات",
+    "answer": "الرياضيات في كلية العلوم. رياضيات بحثة وتطبيقية. مجمع الكليات، المبنى الشرقي",
+    "intent": "department",
+    "mapPoint": "college-science"
+  },
+  {
+    "lang": "ar",
+    "question": "الفيزياء",
+    "answer": "الفيزياء في كلية العلوم. فيزياء عامة وتطبيقية. مجمع الكليات، المبنى الشرقي",
+    "intent": "department",
+    "mapPoint": "college-science"
+  },
+  {
+    "lang": "ar",
+    "question": "الكيمياء",
+    "answer": "الكيمياء في كلية العلوم. كيمياء عضوية وغير عضوية. مجمع الكليات، المبنى الشرقي",
+    "intent": "department",
+    "mapPoint": "college-science"
+  },
+  {
+    "lang": "ar",
+    "question": "الأحياء",
+    "answer": "الأحياء في كلية العلوم. علوم الحياة والأحياء الدقيقة. مجمع الكليات، المبنى الشرقي",
+    "intent": "department",
+    "mapPoint": "college-science"
+  },
+  {
+    "lang": "ar",
+    "question": "كلية إدارة الأعمال",
+    "answer": "كلية إدارة الأعمال. تعد الكلية الطلبة للعمل في المؤسسات وإدارة الأعمال. مبنى الإدارة، الدور الثاني",
+    "intent": "college",
+    "mapPoint": "college-business"
+  },
+  {
+    "lang": "ar",
+    "question": "المحاسبة",
+    "answer": "المحاسبة في كلية إدارة الأعمال. محاسبة مالية وتدقيق. مبنى الإدارة، الدور الثاني",
+    "intent": "department",
+    "mapPoint": "college-business"
+  },
+  {
+    "lang": "ar",
+    "question": "المالية",
+    "answer": "المالية في كلية إدارة الأعمال. تمويل واستثمار. مبنى الإدارة، الدور الثاني",
+    "intent": "department",
+    "mapPoint": "college-business"
+  },
+  {
+    "lang": "ar",
+    "question": "التسويق",
+    "answer": "التسويق في كلية إدارة الأعمال. تسويق واتصال مؤسسي. مبنى الإدارة، الدور الثاني",
+    "intent": "department",
+    "mapPoint": "college-business"
+  },
+  {
+    "lang": "ar",
+    "question": "كلية الآداب والعلوم الإنسانية",
+    "answer": "كلية الآداب والعلوم الإنسانية. تعنى الكلية باللغة والإعلام والعلوم الإنسانية. مجمع الكليات، المبنى الغربي",
+    "intent": "college",
+    "mapPoint": "college-arts"
+  },
+  {
+    "lang": "ar",
+    "question": "اللغة العربية",
+    "answer": "اللغة العربية في كلية الآداب والعلوم الإنسانية. لغة عربية وأدب. مجمع الكليات، المبنى الغربي",
+    "intent": "department",
+    "mapPoint": "college-arts"
+  },
+  {
+    "lang": "ar",
+    "question": "اللغة الإنجليزية",
+    "answer": "اللغة الإنجليزية في كلية الآداب والعلوم الإنسانية. لغة إنجليزية وترجمة. مجمع الكليات، المبنى الغربي",
+    "intent": "department",
+    "mapPoint": "college-arts"
+  },
+  {
+    "lang": "ar",
+    "question": "قسم الانجليزي",
+    "answer": "اللغة الإنجليزية في كلية الآداب والعلوم الإنسانية. لغة إنجليزية وترجمة. مجمع الكليات، المبنى الغربي",
+    "intent": "department",
+    "mapPoint": "college-arts"
+  },
+  {
+    "lang": "ar",
+    "question": "الإعلام",
+    "answer": "الإعلام في كلية الآداب والعلوم الإنسانية. إعلام رقمي وصحافة. مجمع الكليات، المبنى الغربي",
+    "intent": "department",
+    "mapPoint": "college-arts"
+  },
+  {
+    "lang": "ar",
+    "question": "كلية الطب",
+    "answer": "كلية الطب. تضم الكلية الطب والتمريض وتجاور العيادة الجامعية للتدريب. المجمع الصحي، بجوار العيادة الجامعية",
+    "intent": "college",
+    "mapPoint": "college-medicine"
+  },
+  {
+    "lang": "ar",
+    "question": "الطب البشري",
+    "answer": "الطب البشري في كلية الطب. برنامج الطب البشري. المجمع الصحي، بجوار العيادة الجامعية",
+    "intent": "department",
+    "mapPoint": "college-medicine"
+  },
+  {
+    "lang": "ar",
+    "question": "الطب",
+    "answer": "الطب البشري في كلية الطب. برنامج الطب البشري. المجمع الصحي، بجوار العيادة الجامعية",
+    "intent": "department",
+    "mapPoint": "college-medicine"
+  },
+  {
+    "lang": "ar",
+    "question": "التمريض",
+    "answer": "التمريض في كلية الطب. علوم التمريض والرعاية. المجمع الصحي، بجوار العيادة الجامعية",
+    "intent": "department",
+    "mapPoint": "college-medicine"
+  },
+  {
+    "lang": "ar",
+    "question": "المرافق الجامعية",
+    "answer": "أقدر أدلك على هذه المرافق: البوابة الرئيسية، عمادة القبول والتسجيل، المكتبة المركزية، عمادة شؤون الطلاب، العيادة الجامعية، المسجد، الكافتيريا، قاعة المؤتمرات، مواقف الزوار.",
+    "intent": "facilities",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "المرافق",
+    "answer": "أقدر أدلك على هذه المرافق: البوابة الرئيسية، عمادة القبول والتسجيل، المكتبة المركزية، عمادة شؤون الطلاب، العيادة الجامعية، المسجد، الكافتيريا، قاعة المؤتمرات، مواقف الزوار.",
+    "intent": "facilities",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "مرافق الجامعة",
+    "answer": "أقدر أدلك على هذه المرافق: البوابة الرئيسية، عمادة القبول والتسجيل، المكتبة المركزية، عمادة شؤون الطلاب، العيادة الجامعية، المسجد، الكافتيريا، قاعة المؤتمرات، مواقف الزوار.",
+    "intent": "facilities",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "البوابة الرئيسية",
+    "answer": "البوابة الرئيسية. مدخل الحرم ونقطة تجمع الزوار. من هنا يبدأ الاستقبال، ومنها أصل معكم إلى الكليات والمرافق.",
+    "intent": "facility",
+    "mapPoint": "main-gate"
+  },
+  {
+    "lang": "ar",
+    "question": "وين الجامعة",
+    "answer": "البوابة الرئيسية. مدخل الحرم ونقطة تجمع الزوار. من هنا يبدأ الاستقبال، ومنها أصل معكم إلى الكليات والمرافق.",
+    "intent": "facility",
+    "mapPoint": "main-gate"
+  },
+  {
+    "lang": "ar",
+    "question": "اين الجامعة",
+    "answer": "البوابة الرئيسية. مدخل الحرم ونقطة تجمع الزوار. من هنا يبدأ الاستقبال، ومنها أصل معكم إلى الكليات والمرافق.",
+    "intent": "facility",
+    "mapPoint": "main-gate"
+  },
+  {
+    "lang": "ar",
+    "question": "فين الجامعة",
+    "answer": "البوابة الرئيسية. مدخل الحرم ونقطة تجمع الزوار. من هنا يبدأ الاستقبال، ومنها أصل معكم إلى الكليات والمرافق.",
+    "intent": "facility",
+    "mapPoint": "main-gate"
+  },
+  {
+    "lang": "ar",
+    "question": "موقع الجامعة",
+    "answer": "البوابة الرئيسية. مدخل الحرم ونقطة تجمع الزوار. من هنا يبدأ الاستقبال، ومنها أصل معكم إلى الكليات والمرافق.",
+    "intent": "facility",
+    "mapPoint": "main-gate"
+  },
+  {
+    "lang": "ar",
+    "question": "عنوان الجامعة",
+    "answer": "البوابة الرئيسية. مدخل الحرم ونقطة تجمع الزوار. من هنا يبدأ الاستقبال، ومنها أصل معكم إلى الكليات والمرافق.",
+    "intent": "facility",
+    "mapPoint": "main-gate"
+  },
+  {
+    "lang": "ar",
+    "question": "عمادة القبول والتسجيل",
+    "answer": "عمادة القبول والتسجيل. مبنى الإدارة، الدور الأول. جهة القبول والتسجيل واستفسارات الطلبة المستجدين والزوار القادمين للتسجيل.",
+    "intent": "facility",
+    "mapPoint": "facility-admissions"
+  },
+  {
+    "lang": "ar",
+    "question": "عمادة القبول",
+    "answer": "عمادة القبول والتسجيل. مبنى الإدارة، الدور الأول. جهة القبول والتسجيل واستفسارات الطلبة المستجدين والزوار القادمين للتسجيل.",
+    "intent": "facility",
+    "mapPoint": "facility-admissions"
+  },
+  {
+    "lang": "ar",
+    "question": "مكتب القبول",
+    "answer": "عمادة القبول والتسجيل. مبنى الإدارة، الدور الأول. جهة القبول والتسجيل واستفسارات الطلبة المستجدين والزوار القادمين للتسجيل.",
+    "intent": "facility",
+    "mapPoint": "facility-admissions"
+  },
+  {
+    "lang": "ar",
+    "question": "التسجيل",
+    "answer": "عمادة القبول والتسجيل. مبنى الإدارة، الدور الأول. جهة القبول والتسجيل واستفسارات الطلبة المستجدين والزوار القادمين للتسجيل.",
+    "intent": "facility",
+    "mapPoint": "facility-admissions"
+  },
+  {
+    "lang": "ar",
+    "question": "المكتبة المركزية",
+    "answer": "المكتبة المركزية. المبنى الأوسط بجوار الساحة الرئيسية. قاعات اطلاع واستعارة ومصادر بحث للطلبة والزوار المصرح لهم.",
+    "intent": "facility",
+    "mapPoint": "facility-library"
+  },
+  {
+    "lang": "ar",
+    "question": "المكتبة",
+    "answer": "المكتبة المركزية. المبنى الأوسط بجوار الساحة الرئيسية. قاعات اطلاع واستعارة ومصادر بحث للطلبة والزوار المصرح لهم.",
+    "intent": "facility",
+    "mapPoint": "facility-library"
+  },
+  {
+    "lang": "ar",
+    "question": "مكتبة",
+    "answer": "المكتبة المركزية. المبنى الأوسط بجوار الساحة الرئيسية. قاعات اطلاع واستعارة ومصادر بحث للطلبة والزوار المصرح لهم.",
+    "intent": "facility",
+    "mapPoint": "facility-library"
+  },
+  {
+    "lang": "ar",
+    "question": "عمادة شؤون الطلاب",
+    "answer": "عمادة شؤون الطلاب. مبنى الإدارة، الدور الأرضي. البطاقات الجامعية والمعاملات والأنشطة الطلابية.",
+    "intent": "facility",
+    "mapPoint": "facility-student-affairs"
+  },
+  {
+    "lang": "ar",
+    "question": "شؤون الطلاب",
+    "answer": "عمادة شؤون الطلاب. مبنى الإدارة، الدور الأرضي. البطاقات الجامعية والمعاملات والأنشطة الطلابية.",
+    "intent": "facility",
+    "mapPoint": "facility-student-affairs"
+  },
+  {
+    "lang": "ar",
+    "question": "شئون الطلاب",
+    "answer": "عمادة شؤون الطلاب. مبنى الإدارة، الدور الأرضي. البطاقات الجامعية والمعاملات والأنشطة الطلابية.",
+    "intent": "facility",
+    "mapPoint": "facility-student-affairs"
+  },
+  {
+    "lang": "ar",
+    "question": "العيادة الجامعية",
+    "answer": "العيادة الجامعية. المجمع الصحي عند البوابة الشرقية. إسعاف أولي وعيادة للطلبة والمنسوبين أثناء الدوام.",
+    "intent": "facility",
+    "mapPoint": "facility-clinic"
+  },
+  {
+    "lang": "ar",
+    "question": "العيادة",
+    "answer": "العيادة الجامعية. المجمع الصحي عند البوابة الشرقية. إسعاف أولي وعيادة للطلبة والمنسوبين أثناء الدوام.",
+    "intent": "facility",
+    "mapPoint": "facility-clinic"
+  },
+  {
+    "lang": "ar",
+    "question": "الإسعاف",
+    "answer": "العيادة الجامعية. المجمع الصحي عند البوابة الشرقية. إسعاف أولي وعيادة للطلبة والمنسوبين أثناء الدوام.",
+    "intent": "facility",
+    "mapPoint": "facility-clinic"
+  },
+  {
+    "lang": "ar",
+    "question": "الصحة",
+    "answer": "العيادة الجامعية. المجمع الصحي عند البوابة الشرقية. إسعاف أولي وعيادة للطلبة والمنسوبين أثناء الدوام.",
+    "intent": "facility",
+    "mapPoint": "facility-clinic"
+  },
+  {
+    "lang": "ar",
+    "question": "المسجد",
+    "answer": "المسجد. وسط الحرم. مصلى الجامعة في وسط الحرم.",
+    "intent": "facility",
+    "mapPoint": "facility-mosque"
+  },
+  {
+    "lang": "ar",
+    "question": "المصلى",
+    "answer": "المسجد. وسط الحرم. مصلى الجامعة في وسط الحرم.",
+    "intent": "facility",
+    "mapPoint": "facility-mosque"
+  },
+  {
+    "lang": "ar",
+    "question": "الصلاة",
+    "answer": "المسجد. وسط الحرم. مصلى الجامعة في وسط الحرم.",
+    "intent": "facility",
+    "mapPoint": "facility-mosque"
+  },
+  {
+    "lang": "ar",
+    "question": "الكافتيريا",
+    "answer": "الكافتيريا. الساحة الرئيسية. وجبات ومشروبات للطلبة والزوار.",
+    "intent": "facility",
+    "mapPoint": "facility-cafeteria"
+  },
+  {
+    "lang": "ar",
+    "question": "المطعم",
+    "answer": "الكافتيريا. الساحة الرئيسية. وجبات ومشروبات للطلبة والزوار.",
+    "intent": "facility",
+    "mapPoint": "facility-cafeteria"
+  },
+  {
+    "lang": "ar",
+    "question": "الأكل",
+    "answer": "الكافتيريا. الساحة الرئيسية. وجبات ومشروبات للطلبة والزوار.",
+    "intent": "facility",
+    "mapPoint": "facility-cafeteria"
+  },
+  {
+    "lang": "ar",
+    "question": "قاعة المؤتمرات",
+    "answer": "قاعة المؤتمرات. مركز الجامعة. قاعة للفعاليات والمؤتمرات والزيارات الرسمية.",
+    "intent": "facility",
+    "mapPoint": "facility-hall"
+  },
+  {
+    "lang": "ar",
+    "question": "القاعة الكبرى",
+    "answer": "قاعة المؤتمرات. مركز الجامعة. قاعة للفعاليات والمؤتمرات والزيارات الرسمية.",
+    "intent": "facility",
+    "mapPoint": "facility-hall"
+  },
+  {
+    "lang": "ar",
+    "question": "مواقف الزوار",
+    "answer": "مواقف الزوار. أمام البوابة الرئيسية. مواقف مخصصة لزوار الجامعة أمام البوابة الرئيسية.",
+    "intent": "facility",
+    "mapPoint": "facility-parking"
+  },
+  {
+    "lang": "ar",
+    "question": "المواقف",
+    "answer": "مواقف الزوار. أمام البوابة الرئيسية. مواقف مخصصة لزوار الجامعة أمام البوابة الرئيسية.",
+    "intent": "facility",
+    "mapPoint": "facility-parking"
+  },
+  {
+    "lang": "ar",
+    "question": "موقف السيارات",
+    "answer": "مواقف الزوار. أمام البوابة الرئيسية. مواقف مخصصة لزوار الجامعة أمام البوابة الرئيسية.",
+    "intent": "facility",
+    "mapPoint": "facility-parking"
+  },
+  {
+    "lang": "ar",
+    "question": "الباركنج",
+    "answer": "مواقف الزوار. أمام البوابة الرئيسية. مواقف مخصصة لزوار الجامعة أمام البوابة الرئيسية.",
+    "intent": "facility",
+    "mapPoint": "facility-parking"
+  },
+  {
+    "lang": "ar",
+    "question": "ساعات العمل",
+    "answer": "أوقات الاستقبال النموذجية من الأحد إلى الخميس، من الثامنة صباحاً حتى الرابعة مساءً. غيّروا هذا النص حسب تقويم جامعتكم.",
+    "intent": "hours",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "وقت الدوام",
+    "answer": "أوقات الاستقبال النموذجية من الأحد إلى الخميس، من الثامنة صباحاً حتى الرابعة مساءً. غيّروا هذا النص حسب تقويم جامعتكم.",
+    "intent": "hours",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "متى تفتح",
+    "answer": "أوقات الاستقبال النموذجية من الأحد إلى الخميس، من الثامنة صباحاً حتى الرابعة مساءً. غيّروا هذا النص حسب تقويم جامعتكم.",
+    "intent": "hours",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "أوقات الدوام",
+    "answer": "أوقات الاستقبال النموذجية من الأحد إلى الخميس، من الثامنة صباحاً حتى الرابعة مساءً. غيّروا هذا النص حسب تقويم جامعتكم.",
+    "intent": "hours",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "متى تفتح الجامعة",
+    "answer": "أوقات الاستقبال النموذجية من الأحد إلى الخميس، من الثامنة صباحاً حتى الرابعة مساءً. غيّروا هذا النص حسب تقويم جامعتكم.",
+    "intent": "hours",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "التواصل",
+    "answer": "للتواصل، توجهوا إلى عمادة القبول والتسجيل، وأنا أقدر أرافقكم إليها.",
+    "intent": "contact",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "رقم التواصل",
+    "answer": "للتواصل، توجهوا إلى عمادة القبول والتسجيل، وأنا أقدر أرافقكم إليها.",
+    "intent": "contact",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "رقم الهاتف",
+    "answer": "للتواصل، توجهوا إلى عمادة القبول والتسجيل، وأنا أقدر أرافقكم إليها.",
+    "intent": "contact",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "البريد",
+    "answer": "للتواصل، توجهوا إلى عمادة القبول والتسجيل، وأنا أقدر أرافقكم إليها.",
+    "intent": "contact",
+    "mapPoint": ""
+  },
+  {
+    "lang": "ar",
+    "question": "الترحيب",
+    "answer": "صباح الخير. أهلاً بكم في جامعة المعرفة. أنا تيمو، وأسعد بتعريفكم بالجامعة ورؤيتها وخدماتها، وبإرشادكم إلى الكليات والمرافق.",
+    "intent": "welcome",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "About the university",
+    "answer": "Knowledge University welcomes students and visitors and introduces its vision, services, colleges, and facilities. I am Timo, the reception robot. I can explain this in Arabic and English and walk you to the place you need on campus.",
+    "intent": "about",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "tell me about the university",
+    "answer": "Knowledge University welcomes students and visitors and introduces its vision, services, colleges, and facilities. I am Timo, the reception robot. I can explain this in Arabic and English and walk you to the place you need on campus.",
+    "intent": "about",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "who are you",
+    "answer": "Knowledge University welcomes students and visitors and introduces its vision, services, colleges, and facilities. I am Timo, the reception robot. I can explain this in Arabic and English and walk you to the place you need on campus.",
+    "intent": "about",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "introduction",
+    "answer": "Knowledge University welcomes students and visitors and introduces its vision, services, colleges, and facilities. I am Timo, the reception robot. I can explain this in Arabic and English and walk you to the place you need on campus.",
+    "intent": "about",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "about you",
+    "answer": "Knowledge University welcomes students and visitors and introduces its vision, services, colleges, and facilities. I am Timo, the reception robot. I can explain this in Arabic and English and walk you to the place you need on campus.",
+    "intent": "about",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "Vision",
+    "answer": "To be a leading environment for learning, research, and community service, where students and visitors find a clear mission and easy access to services.",
+    "intent": "vision",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "your vision",
+    "answer": "To be a leading environment for learning, research, and community service, where students and visitors find a clear mission and easy access to services.",
+    "intent": "vision",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "university vision",
+    "answer": "To be a leading environment for learning, research, and community service, where students and visitors find a clear mission and easy access to services.",
+    "intent": "vision",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "what is the vision",
+    "answer": "To be a leading environment for learning, research, and community service, where students and visitors find a clear mission and easy access to services.",
+    "intent": "vision",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "Mission",
+    "answer": "To offer strong education, support each student through their studies, and welcome visitors with a clear introduction and attentive reception.",
+    "intent": "mission",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "your mission",
+    "answer": "To offer strong education, support each student through their studies, and welcome visitors with a clear introduction and attentive reception.",
+    "intent": "mission",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "university mission",
+    "answer": "To offer strong education, support each student through their studies, and welcome visitors with a clear introduction and attentive reception.",
+    "intent": "mission",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "what is the mission",
+    "answer": "To offer strong education, support each student through their studies, and welcome visitors with a clear introduction and attentive reception.",
+    "intent": "mission",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "University services",
+    "answer": "These are the university services: Admissions and registration, Academic advising, Library services, Student affairs and activities, Online services, Visitor reception.",
+    "intent": "services",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "services",
+    "answer": "These are the university services: Admissions and registration, Academic advising, Library services, Student affairs and activities, Online services, Visitor reception.",
+    "intent": "services",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "what services do you offer",
+    "answer": "These are the university services: Admissions and registration, Academic advising, Library services, Student affairs and activities, Online services, Visitor reception.",
+    "intent": "services",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "your services",
+    "answer": "These are the university services: Admissions and registration, Academic advising, Library services, Student affairs and activities, Online services, Visitor reception.",
+    "intent": "services",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "Admissions and registration",
+    "answer": "Admissions and registration. Admission questions, registration dates, and the documents required from current and new students.",
+    "intent": "service",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "Academic advising",
+    "answer": "Academic advising. Help for students with study plans, course choices, and the right office inside their college.",
+    "intent": "service",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "Library services",
+    "answer": "Library services. Borrowing, reading, and searching the collections of the central library.",
+    "intent": "service",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "Student affairs and activities",
+    "answer": "Student affairs and activities. Student cards, campus activities, and day-to-day student services.",
+    "intent": "service",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "Online services",
+    "answer": "Online services. The online portal for timetables, results, and services completed remotely.",
+    "intent": "service",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "Visitor reception",
+    "answer": "Visitor reception. Welcoming visitors, explaining the campus, and escorting them to their destination.",
+    "intent": "service",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "Colleges and departments",
+    "answer": "The university includes these colleges: College of Engineering, College of Science, College of Business, College of Arts and Humanities, College of Medicine.",
+    "intent": "colleges",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "colleges",
+    "answer": "The university includes these colleges: College of Engineering, College of Science, College of Business, College of Arts and Humanities, College of Medicine.",
+    "intent": "colleges",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "faculties",
+    "answer": "The university includes these colleges: College of Engineering, College of Science, College of Business, College of Arts and Humanities, College of Medicine.",
+    "intent": "colleges",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "departments",
+    "answer": "The university includes these colleges: College of Engineering, College of Science, College of Business, College of Arts and Humanities, College of Medicine.",
+    "intent": "colleges",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "list the colleges",
+    "answer": "The university includes these colleges: College of Engineering, College of Science, College of Business, College of Arts and Humanities, College of Medicine.",
+    "intent": "colleges",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "College of Engineering",
+    "answer": "College of Engineering. The college teaches applied engineering and trains students through lab projects. Colleges complex, north building",
+    "intent": "college",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "en",
+    "question": "Civil Engineering",
+    "answer": "Civil Engineering is in the College of Engineering. Structures, roads, and project management. Colleges complex, north building",
+    "intent": "department",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "en",
+    "question": "Electrical Engineering",
+    "answer": "Electrical Engineering is in the College of Engineering. Power, electronics, and control systems. Colleges complex, north building",
+    "intent": "department",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "en",
+    "question": "electrical",
+    "answer": "Electrical Engineering is in the College of Engineering. Power, electronics, and control systems. Colleges complex, north building",
+    "intent": "department",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "en",
+    "question": "Mechanical Engineering",
+    "answer": "Mechanical Engineering is in the College of Engineering. Thermal systems, mechanical design, and manufacturing. Colleges complex, north building",
+    "intent": "department",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "en",
+    "question": "Computer Engineering",
+    "answer": "Computer Engineering is in the College of Engineering. Computer systems, networks, and embedded systems. Colleges complex, north building",
+    "intent": "department",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "en",
+    "question": "computer",
+    "answer": "Computer Engineering is in the College of Engineering. Computer systems, networks, and embedded systems. Colleges complex, north building",
+    "intent": "department",
+    "mapPoint": "college-engineering"
+  },
+  {
+    "lang": "en",
+    "question": "College of Science",
+    "answer": "College of Science. The college teaches the core sciences that support health and engineering programs. Colleges complex, east building",
+    "intent": "college",
+    "mapPoint": "college-science"
+  },
+  {
+    "lang": "en",
+    "question": "Mathematics",
+    "answer": "Mathematics is in the College of Science. Pure and applied mathematics. Colleges complex, east building",
+    "intent": "department",
+    "mapPoint": "college-science"
+  },
+  {
+    "lang": "en",
+    "question": "Physics",
+    "answer": "Physics is in the College of Science. General and applied physics. Colleges complex, east building",
+    "intent": "department",
+    "mapPoint": "college-science"
+  },
+  {
+    "lang": "en",
+    "question": "Chemistry",
+    "answer": "Chemistry is in the College of Science. Organic and inorganic chemistry. Colleges complex, east building",
+    "intent": "department",
+    "mapPoint": "college-science"
+  },
+  {
+    "lang": "en",
+    "question": "Biology",
+    "answer": "Biology is in the College of Science. Life sciences and microbiology. Colleges complex, east building",
+    "intent": "department",
+    "mapPoint": "college-science"
+  },
+  {
+    "lang": "en",
+    "question": "College of Business",
+    "answer": "College of Business. The college prepares students for organizations and business management. Administration building, second floor",
+    "intent": "college",
+    "mapPoint": "college-business"
+  },
+  {
+    "lang": "en",
+    "question": "Accounting",
+    "answer": "Accounting is in the College of Business. Financial accounting and auditing. Administration building, second floor",
+    "intent": "department",
+    "mapPoint": "college-business"
+  },
+  {
+    "lang": "en",
+    "question": "Finance",
+    "answer": "Finance is in the College of Business. Finance and investment. Administration building, second floor",
+    "intent": "department",
+    "mapPoint": "college-business"
+  },
+  {
+    "lang": "en",
+    "question": "Marketing",
+    "answer": "Marketing is in the College of Business. Marketing and organizational communication. Administration building, second floor",
+    "intent": "department",
+    "mapPoint": "college-business"
+  },
+  {
+    "lang": "en",
+    "question": "College of Arts and Humanities",
+    "answer": "College of Arts and Humanities. The college covers languages, media, and the humanities. Colleges complex, west building",
+    "intent": "college",
+    "mapPoint": "college-arts"
+  },
+  {
+    "lang": "en",
+    "question": "Arabic Language",
+    "answer": "Arabic Language is in the College of Arts and Humanities. Arabic language and literature. Colleges complex, west building",
+    "intent": "department",
+    "mapPoint": "college-arts"
+  },
+  {
+    "lang": "en",
+    "question": "English Language",
+    "answer": "English Language is in the College of Arts and Humanities. English language and translation. Colleges complex, west building",
+    "intent": "department",
+    "mapPoint": "college-arts"
+  },
+  {
+    "lang": "en",
+    "question": "english department",
+    "answer": "English Language is in the College of Arts and Humanities. English language and translation. Colleges complex, west building",
+    "intent": "department",
+    "mapPoint": "college-arts"
+  },
+  {
+    "lang": "en",
+    "question": "Media",
+    "answer": "Media is in the College of Arts and Humanities. Digital media and journalism. Colleges complex, west building",
+    "intent": "department",
+    "mapPoint": "college-arts"
+  },
+  {
+    "lang": "en",
+    "question": "College of Medicine",
+    "answer": "College of Medicine. The college includes medicine and nursing and sits beside the campus clinic for training. Health complex, beside the campus clinic",
+    "intent": "college",
+    "mapPoint": "college-medicine"
+  },
+  {
+    "lang": "en",
+    "question": "Medicine",
+    "answer": "Medicine is in the College of Medicine. The medicine program. Health complex, beside the campus clinic",
+    "intent": "department",
+    "mapPoint": "college-medicine"
+  },
+  {
+    "lang": "en",
+    "question": "medical",
+    "answer": "Medicine is in the College of Medicine. The medicine program. Health complex, beside the campus clinic",
+    "intent": "department",
+    "mapPoint": "college-medicine"
+  },
+  {
+    "lang": "en",
+    "question": "Nursing",
+    "answer": "Nursing is in the College of Medicine. Nursing and care. Health complex, beside the campus clinic",
+    "intent": "department",
+    "mapPoint": "college-medicine"
+  },
+  {
+    "lang": "en",
+    "question": "University facilities",
+    "answer": "I can direct you to these facilities: Main gate, Admissions office, Central library, Student affairs, Campus clinic, Mosque, Cafeteria, Conference hall, Visitor parking.",
+    "intent": "facilities",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "facilities",
+    "answer": "I can direct you to these facilities: Main gate, Admissions office, Central library, Student affairs, Campus clinic, Mosque, Cafeteria, Conference hall, Visitor parking.",
+    "intent": "facilities",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "campus facilities",
+    "answer": "I can direct you to these facilities: Main gate, Admissions office, Central library, Student affairs, Campus clinic, Mosque, Cafeteria, Conference hall, Visitor parking.",
+    "intent": "facilities",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "places",
+    "answer": "I can direct you to these facilities: Main gate, Admissions office, Central library, Student affairs, Campus clinic, Mosque, Cafeteria, Conference hall, Visitor parking.",
+    "intent": "facilities",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "Main gate",
+    "answer": "Main gate. Campus entrance and the visitor meeting point. Reception starts here, and from here I can walk with you to the colleges and facilities.",
+    "intent": "facility",
+    "mapPoint": "main-gate"
+  },
+  {
+    "lang": "en",
+    "question": "where is the university",
+    "answer": "Main gate. Campus entrance and the visitor meeting point. Reception starts here, and from here I can walk with you to the colleges and facilities.",
+    "intent": "facility",
+    "mapPoint": "main-gate"
+  },
+  {
+    "lang": "en",
+    "question": "university location",
+    "answer": "Main gate. Campus entrance and the visitor meeting point. Reception starts here, and from here I can walk with you to the colleges and facilities.",
+    "intent": "facility",
+    "mapPoint": "main-gate"
+  },
+  {
+    "lang": "en",
+    "question": "campus entrance",
+    "answer": "Main gate. Campus entrance and the visitor meeting point. Reception starts here, and from here I can walk with you to the colleges and facilities.",
+    "intent": "facility",
+    "mapPoint": "main-gate"
+  },
+  {
+    "lang": "en",
+    "question": "Admissions office",
+    "answer": "Admissions office. Administration building, first floor. Admissions, registration, and questions from new students and visiting applicants.",
+    "intent": "facility",
+    "mapPoint": "facility-admissions"
+  },
+  {
+    "lang": "en",
+    "question": "registrar",
+    "answer": "Admissions office. Administration building, first floor. Admissions, registration, and questions from new students and visiting applicants.",
+    "intent": "facility",
+    "mapPoint": "facility-admissions"
+  },
+  {
+    "lang": "en",
+    "question": "registration office",
+    "answer": "Admissions office. Administration building, first floor. Admissions, registration, and questions from new students and visiting applicants.",
+    "intent": "facility",
+    "mapPoint": "facility-admissions"
+  },
+  {
+    "lang": "en",
+    "question": "Central library",
+    "answer": "Central library. Middle building, beside the main square. Reading rooms, borrowing, and research collections for students and authorized visitors.",
+    "intent": "facility",
+    "mapPoint": "facility-library"
+  },
+  {
+    "lang": "en",
+    "question": "library",
+    "answer": "Central library. Middle building, beside the main square. Reading rooms, borrowing, and research collections for students and authorized visitors.",
+    "intent": "facility",
+    "mapPoint": "facility-library"
+  },
+  {
+    "lang": "en",
+    "question": "Student affairs",
+    "answer": "Student affairs. Administration building, ground floor. Student cards, student services, and campus activities.",
+    "intent": "facility",
+    "mapPoint": "facility-student-affairs"
+  },
+  {
+    "lang": "en",
+    "question": "student services",
+    "answer": "Student affairs. Administration building, ground floor. Student cards, student services, and campus activities.",
+    "intent": "facility",
+    "mapPoint": "facility-student-affairs"
+  },
+  {
+    "lang": "en",
+    "question": "Campus clinic",
+    "answer": "Campus clinic. Health complex by the east gate. First aid and a clinic for students and staff during working hours.",
+    "intent": "facility",
+    "mapPoint": "facility-clinic"
+  },
+  {
+    "lang": "en",
+    "question": "clinic",
+    "answer": "Campus clinic. Health complex by the east gate. First aid and a clinic for students and staff during working hours.",
+    "intent": "facility",
+    "mapPoint": "facility-clinic"
+  },
+  {
+    "lang": "en",
+    "question": "health center",
+    "answer": "Campus clinic. Health complex by the east gate. First aid and a clinic for students and staff during working hours.",
+    "intent": "facility",
+    "mapPoint": "facility-clinic"
+  },
+  {
+    "lang": "en",
+    "question": "first aid",
+    "answer": "Campus clinic. Health complex by the east gate. First aid and a clinic for students and staff during working hours.",
+    "intent": "facility",
+    "mapPoint": "facility-clinic"
+  },
+  {
+    "lang": "en",
+    "question": "Mosque",
+    "answer": "Mosque. Center of the campus. The campus mosque at the center of the grounds.",
+    "intent": "facility",
+    "mapPoint": "facility-mosque"
+  },
+  {
+    "lang": "en",
+    "question": "prayer room",
+    "answer": "Mosque. Center of the campus. The campus mosque at the center of the grounds.",
+    "intent": "facility",
+    "mapPoint": "facility-mosque"
+  },
+  {
+    "lang": "en",
+    "question": "prayer",
+    "answer": "Mosque. Center of the campus. The campus mosque at the center of the grounds.",
+    "intent": "facility",
+    "mapPoint": "facility-mosque"
+  },
+  {
+    "lang": "en",
+    "question": "Cafeteria",
+    "answer": "Cafeteria. Main square. Meals and drinks for students and visitors.",
+    "intent": "facility",
+    "mapPoint": "facility-cafeteria"
+  },
+  {
+    "lang": "en",
+    "question": "food",
+    "answer": "Cafeteria. Main square. Meals and drinks for students and visitors.",
+    "intent": "facility",
+    "mapPoint": "facility-cafeteria"
+  },
+  {
+    "lang": "en",
+    "question": "restaurant",
+    "answer": "Cafeteria. Main square. Meals and drinks for students and visitors.",
+    "intent": "facility",
+    "mapPoint": "facility-cafeteria"
+  },
+  {
+    "lang": "en",
+    "question": "Conference hall",
+    "answer": "Conference hall. University center. A hall for events, conferences, and official visits.",
+    "intent": "facility",
+    "mapPoint": "facility-hall"
+  },
+  {
+    "lang": "en",
+    "question": "auditorium",
+    "answer": "Conference hall. University center. A hall for events, conferences, and official visits.",
+    "intent": "facility",
+    "mapPoint": "facility-hall"
+  },
+  {
+    "lang": "en",
+    "question": "Visitor parking",
+    "answer": "Visitor parking. In front of the main gate. Parking reserved for university visitors in front of the main gate.",
+    "intent": "facility",
+    "mapPoint": "facility-parking"
+  },
+  {
+    "lang": "en",
+    "question": "parking",
+    "answer": "Visitor parking. In front of the main gate. Parking reserved for university visitors in front of the main gate.",
+    "intent": "facility",
+    "mapPoint": "facility-parking"
+  },
+  {
+    "lang": "en",
+    "question": "car park",
+    "answer": "Visitor parking. In front of the main gate. Parking reserved for university visitors in front of the main gate.",
+    "intent": "facility",
+    "mapPoint": "facility-parking"
+  },
+  {
+    "lang": "en",
+    "question": "Opening hours",
+    "answer": "Sample reception hours are Sunday to Thursday, 8:00 to 16:00. Replace this text with your university calendar.",
+    "intent": "hours",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "working hours",
+    "answer": "Sample reception hours are Sunday to Thursday, 8:00 to 16:00. Replace this text with your university calendar.",
+    "intent": "hours",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "when do you open",
+    "answer": "Sample reception hours are Sunday to Thursday, 8:00 to 16:00. Replace this text with your university calendar.",
+    "intent": "hours",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "office hours",
+    "answer": "Sample reception hours are Sunday to Thursday, 8:00 to 16:00. Replace this text with your university calendar.",
+    "intent": "hours",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "Contact",
+    "answer": "For contact, please visit the admissions office. I can walk you there.",
+    "intent": "contact",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "phone number",
+    "answer": "For contact, please visit the admissions office. I can walk you there.",
+    "intent": "contact",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "email",
+    "answer": "For contact, please visit the admissions office. I can walk you there.",
+    "intent": "contact",
+    "mapPoint": ""
+  },
+  {
+    "lang": "en",
+    "question": "Welcome",
+    "answer": "Good morning. Welcome to Knowledge University. I am Timo. I can introduce the university, its vision, and its services, and guide you to the colleges and facilities.",
+    "intent": "welcome",
+    "mapPoint": ""
+  }
+]
